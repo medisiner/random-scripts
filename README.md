@@ -1,6 +1,4 @@
-# Random scripts
-
-## Random scripts for terminals - all made for fun 
+# Random scripts for terminals - all made for fun 
 All ran on a manjaro machine so...
 
 ## Setup
